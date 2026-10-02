@@ -1,0 +1,25 @@
+# Maintainer roster for Hive
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+#
+# Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev
+# to enable automatic access to CNCF resources. The system uses your primary
+# email address for service setup.
+#
+# Roster:
+# - Andy Anderson, IBM (@clubanderson)
+# - James Reilly, Universal Blue (@hanthor)
+# - Doug Baggett, independent (@Danathar)
+# - Nic Jackson, IBM (@nicholasjackson)
+# - Kelly Abuelsaad, IBM (@abuelsaad)
+
+maintainers:
+  - project_id: "hive"
+    org: "hivecommons"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - clubanderson
+          - hanthor
+          - Danathar
+          - nicholasjackson
+          - abuelsaad
