@@ -10,7 +10,7 @@
 # - James Reilly, Universal Blue (@hanthor)
 # - Doug Baggett, independent (@Danathar)
 # - Nic Jackson, IBM (@nicholasjackson)
-# - Kelly Abuelsaad, IBM (@abuelsaad)
+# - Kelly Abuelsaad, IBM (@kellyaa)
 
 maintainers:
   - project_id: "hive"
@@ -22,4 +22,4 @@ maintainers:
           - hanthor
           - Danathar
           - nicholasjackson
-          - abuelsaad
+          - kellyaa
