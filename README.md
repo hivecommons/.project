@@ -1,6 +1,6 @@
 # Hive CNCF project metadata
 
-This repository contains the CNCF `.project` metadata for Hive in the `hivecommons` GitHub organization.
+This repository contains the CNCF `.project` metadata for Hive Commons in the `hivecommons` GitHub organization.
 
 The metadata follows the CNCF automation `.project` schema and is used by CNCF services automation, including maintainer access provisioning from `maintainers.yaml`.
 
