@@ -29,6 +29,7 @@ repositories:
   - "https://github.com/hivecommons/docs"
   - "https://github.com/hivecommons/pluk"
   - "https://github.com/hivecommons/spektacular"
+  - "https://github.com/hivecommons/colony"
   - "https://github.com/hivecommons/.github"
 
 website: "https://hivecommons.dev"
